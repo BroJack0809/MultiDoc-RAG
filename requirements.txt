@@ -1,0 +1,8 @@
+streamlit
+nest_asyncio
+llama-index-core
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-parse
+llama-index-retrievers-bm25
+python-dotenv
