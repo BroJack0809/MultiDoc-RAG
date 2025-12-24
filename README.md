@@ -1,6 +1,6 @@
-# 長庚大學 碩士論文與畢業離校流程 RAG 助手 (CGU-Grad-RAG)
+# MultiDoc-RAG: 多文件 RAG 知識庫助手 (原 CGU-Grad-RAG)
 
-這是一個基於 RAG (Retrieval-Augmented Generation) 技術的 AI 助手，專門用於回答關於長庚大學碩士論文格式規範與畢業離校流程的相關問題。
+這是一個基於 RAG (Retrieval-Augmented Generation) 技術的強大 AI 助手，專門設計用於**同時處理多份文件**，建立綜合知識庫。雖然範例是用於長庚大學畢業流程，但其實它能支援任何 PDF/Word 文件的問答。
 
 ![系統介面預覽](app頁面.png)
 

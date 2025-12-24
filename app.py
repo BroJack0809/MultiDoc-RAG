@@ -14,8 +14,8 @@ import rag_engine as rag
 nest_asyncio.apply()
 
 # --- 頁面設定 ---
-st.set_page_config(page_title="多文件 RAG 助手", layout="wide")
-st.title("📚 CGU-Grad-RAG")
+st.set_page_config(page_title="MultiDoc-RAG", layout="wide")
+st.title("📚 MultiDoc-RAG")
 
 # --- 側邊欄：設定與檔案管理 ---
 with st.sidebar:
