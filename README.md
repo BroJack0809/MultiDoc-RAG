@@ -2,6 +2,8 @@
 
 這是一個基於 RAG (Retrieval-Augmented Generation) 技術的 AI 助手，專門用於回答關於長庚大學碩士論文格式規範與畢業離校流程的相關問題。
 
+![系統介面預覽](app頁面.png)
+
 ## ⚠️ 前置準備與 API 金鑰
 
 本專案使用 Google Gemini 模型與 LlamaCloud 解析器，您需要準備以下 API Key：
