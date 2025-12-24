@@ -8,6 +8,4 @@ venv/
 *.swp
 .DS_Store
 
-# User data and indices (optional, remove if you want to track these)
-data/
-storage/
+# User data and indices (removed exclusions)
